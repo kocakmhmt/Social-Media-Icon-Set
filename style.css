@@ -1,0 +1,28 @@
+body img{
+	max-width:100%;
+}
+body h2 {
+	font-family: 'Oxygen', sans-serif;
+}
+#social {
+max-width: 990px;
+}
+.footer {
+font-family: 'Oxygen', sans-serif;
+background:#fff;
+color: #999999;
+position: fixed;
+left: 0;
+bottom: 0;
+height: auto;
+width: 100%;
+}
+		
+.footer p {
+margin-left: 25%;
+margin-right:25%;
+}
+	
+.footer a {
+margin-right:3px;
+float:right;
